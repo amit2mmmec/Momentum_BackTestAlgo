@@ -1,0 +1,17 @@
+Long Entry taken based on
+EMA20>EMA50, EMA fast slope>0, ROC>0
+
+Based on ATR14 decide SL & Target profit
+
+While booking profit, check if the conditions are still true, dont book profit just ride
+Exit on smaller TF 3/5 min in case either of conditions fails
+
+Short entry vice versa
+
+
+Entry put short and call long; call short put long
+
+At ATR(14) enter same value call short; enter same value put short --> Basically Strangles
+
+
+Pending trigger check -> if all short dont exit...any 1 long exit immediately -> backtest based on this
